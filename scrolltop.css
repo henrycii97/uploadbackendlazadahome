@@ -1,0 +1,91 @@
+.img-flash img.add {
+    width: 21px;
+    height: 21px;
+}
+
+.category-laz.add {
+    position: fixed;
+    z-index: 999;
+    top: 0px;
+    left: 0px;
+}
+.category-laz.add {
+    position: fixed;
+    z-index: 120;
+    top: 75px;
+    left: 29px;
+}
+.categorys-title{
+    display: none;
+}
+.categorys-title.add{
+    display: initial;
+}
+.category-laz.add .categorys-1 {
+    display: none;
+}
+span.ionic-cts {
+    margin-left: 10px;
+    font-size: 17px;
+}
+.category-laz.add:hover .categorys-1 {
+    display: initial;
+}
+.categorys-title {
+    opacity: .85;
+    margin-left: 19px;
+    font-size: 14px;
+    color: #0f136d;
+    letter-spacing: 0;
+    line-height: 39px;
+    height: 40px;
+    background: white;
+    width: 100px;
+    z-index: 999;
+    font-weight: 500;
+}
+.categorys-title.add:hover ion-icon.md.hydrated {
+    transform: rotate(180deg);
+    color: #f57224;
+}
+.categorys-title.add:hover {
+    color: #f57224;
+}
+.text-flash.add {
+        margin-left: 5px;
+        height: 42px;
+        line-height: 26px;
+        font-size: 14px;
+        color: #0f136d;
+        font-weight: 400;
+}
+.navbar.add {
+    background: var(--white);
+    height: 115px;
+}
+
+.card-content.add {
+    width: 100%;
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    height: 62px;
+    position: fixed;
+    top: 65px;
+    z-index: 120;
+    left: 21%;
+}
+.card-content a .laz-fl.add {
+    display: flex;
+    height: 23px;
+    background: white;
+    border-radius: 20px;
+}
+.laz-fl.lazmall-ads.add {
+    width: 100px;
+}
+.laz-fl.discount-code.add {
+    width: 117px;
+}
+.laz-fl.recharge-vouchers.add {
+    width: 165px;
+}
